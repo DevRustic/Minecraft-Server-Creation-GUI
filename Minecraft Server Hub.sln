@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Server Hub", "Minecraft Server Hub\Minecraft Server Hub.csproj", "{41C95830-8D4F-4899-AF20-717AF83E0CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C95830-8D4F-4899-AF20-717AF83E0CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C95830-8D4F-4899-AF20-717AF83E0CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C95830-8D4F-4899-AF20-717AF83E0CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C95830-8D4F-4899-AF20-717AF83E0CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E961C630-16A2-4758-84FE-58E14A040CE3}
+	EndGlobalSection
+EndGlobal
