@@ -5,7 +5,7 @@ Minecraft Server Hub is an open source program designed for people who make, edi
 properties, organizing server files, and more!
 
 
-
+![alt text](https://i.imgur.com/85xQ2pR.png)
 
 
 
